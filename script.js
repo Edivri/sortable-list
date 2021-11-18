@@ -9,7 +9,7 @@ const richestPeople = [
   'Carlos Slim Helu',
   'Amancio Ortega',
   'Larry Ellison',
-  'Mark Zuckerberg',
+  'Benjamin Edivri',
   'Michael Bloomberg',
   'Larry Page'
 ];
